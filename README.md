@@ -6,7 +6,7 @@
 
 4 .WEEK-02[BUBBLE SORT](https://github.com/MUKKASPANDANA/2203A51613_DAA_BATCH_02/blob/main/bubble_sort.c)
 
-5 .WEEK-02[SELECTION SORT]()
+5 .WEEK-02[SELECTION SORT](https://github.com/MUKKASPANDANA/2203A51613_DAA_BATCH_02/blob/main/selection_sort.c)
 
 6 .WEEK-02[INSERSTION SORT](https://github.com/MUKKASPANDANA/2203A51613_DAA_BATCH_02/blob/main/insertion_sort.c)
 
